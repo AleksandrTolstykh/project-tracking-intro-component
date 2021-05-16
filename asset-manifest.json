@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/project-tracking-intro-component/static/js/main.f99ddd46.chunk.js",
+    "main.js.map": "/project-tracking-intro-component/static/js/main.f99ddd46.chunk.js.map",
+    "runtime-main.js": "/project-tracking-intro-component/static/js/runtime-main.389be39d.js",
+    "runtime-main.js.map": "/project-tracking-intro-component/static/js/runtime-main.389be39d.js.map",
+    "static/js/2.40c083ef.chunk.js": "/project-tracking-intro-component/static/js/2.40c083ef.chunk.js",
+    "static/js/2.40c083ef.chunk.js.map": "/project-tracking-intro-component/static/js/2.40c083ef.chunk.js.map",
+    "index.html": "/project-tracking-intro-component/index.html",
+    "static/js/2.40c083ef.chunk.js.LICENSE.txt": "/project-tracking-intro-component/static/js/2.40c083ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389be39d.js",
+    "static/js/2.40c083ef.chunk.js",
+    "static/js/main.f99ddd46.chunk.js"
+  ]
+}
